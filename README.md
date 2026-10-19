@@ -1,4 +1,4 @@
-# Geo_pandas_basic_frankpd
+# Geo_pandas_basic_Rhode_Island
 Experimenting with Brown University Library open source code produced by Frank Donnelly, Head of GIS & Data Services
 
 Link to original work : https://github.com/Brown-University-Library/geodata_geopandas_basic
